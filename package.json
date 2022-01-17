@@ -1,0 +1,22 @@
+{
+  "name": "000-core",
+  "version": "0.0.1",
+  "description": "Core modules & interfaces of the modular automated trade bot framework 000.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "000",
+    "bot",
+    "crypto"
+  ],
+  "author": "ppajer",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "ccxt": "^1.68.20"
+  }
+}
